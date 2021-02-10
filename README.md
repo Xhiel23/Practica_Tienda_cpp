@@ -79,7 +79,7 @@ Se pueden compilar los archivos directamente en VS Code añadiendo la librería 
 <!-- ROADMAP -->
 ## Próximos pasos
 
-Mira [open issues](https://github.com/Xhiel23/Practica2_STKLM/issues) para una lista completa de las mejoras propuestas (y bugs conocidos).
+Mira [open issues](https://github.com/Xhiel23/Practica_Tienda_cpp/issues) para una lista completa de las mejoras propuestas (y bugs conocidos).
 
 Además las siguientes funcionalidades serán implementadas próximamente:
 - [ ] Interfaz gráfica
